@@ -1,7 +1,5 @@
 Oi 👋
 
-Here are some ideas to get you started:
-
 Meu nome é Kauan Nascimento da Silva
 
 Estou estudando na Alura
